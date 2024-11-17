@@ -9,8 +9,6 @@
 
 - 👯 I’m collaborating on [CodeJooyan Project](https://github.com/CodeJooyan/CodeJooanProject.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmirJafarlooPro](https://github.com/AmirJafarlooPro)
-
 - 💬 Ask me about **software development , ASP.NET , Windows Form**
 
 - 📫 How to reach me **amirjafarloo.pro@gmail.com**
