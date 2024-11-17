@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amirjafarloo.pro@gmail.com**
 
-- 📄 Know about my experiences [https://jobinja.ir/user/AmirJafarloo](https://jobinja.ir/user/AmirJafarlo)
+- 📄 Know about my experiences [https://jobinja.ir/user/AmirJafarloo](https://jobinja.ir/user/AmirJafarloo)
 
 - ⚡ Fun fact **"Sometimes, the simplest ideas lead to the most complex code, and the smallest bugs teach the biggest lessons."**
 
