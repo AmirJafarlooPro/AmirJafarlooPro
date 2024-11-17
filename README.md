@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AmirHossein Jafarloo</h1>
-<h3 align="center">Iranian Junior .NET Developer . <- winform . Asp.net -></h3>
+<h3 align="center">Iranian Junior .NET Developer</h3>
 
 - 🔭 I’m currently working on [ASP.NET Core Training Project](https://github.com/AmirJafarlooPro/ForceShop_Asp.git)
 
