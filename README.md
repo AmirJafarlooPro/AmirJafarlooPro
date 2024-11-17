@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET WebApi , Design Patterns**
 
-- 👯 I’m looking to collaborate on [CodeJooyan Project](https://github.com/CodeJooyan/CodeJooanProject.git)
+- 👯 I’m collaborating on [CodeJooyan Project](https://github.com/CodeJooyan/CodeJooanProject.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmirJafarlooPro](https://github.com/AmirJafarlooPro)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amirjafarloo.pro@gmail.com**
 
-- 📄 Know about my experiences [https://jobinja.ir/user/VB-5339166](https://jobinja.ir/user/VB-5339166)
+- 📄 Know about my experiences [https://jobinja.ir/user/AmirJafarloo](https://jobinja.ir/user/AmirJafarlo)
 
 - ⚡ Fun fact **"Sometimes, the simplest ideas lead to the most complex code, and the smallest bugs teach the biggest lessons."**
 
