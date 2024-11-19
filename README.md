@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ASP.NET Core Training Project](https://github.com/AmirJafarlooPro/ForceShop_Asp.git)
 
-- 🌱 I’m currently learning **ASP.NET WebApi , Design Patterns**
+- 🌱 I’m currently learning **ASP.NET WebApi , Security in ASP.NET Projects**
 
 - 👯 I’m collaborating on [CodeJooyan Project](https://github.com/CodeJooyan/CodeJooanProject.git)
 
