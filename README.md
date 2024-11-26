@@ -25,7 +25,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<p align="left"> <img height="30" src="https://th.bing.com/th/id/OIP.CeGuo7OzfB0d8MrBUm2xFwHaHa?pid=ImgDet&rs=1">
+<img height="30" src="https://crackkey4u.com/wp-content/uploads/2019/05/8-1.png">
+<img height="30" src="https://logodix.com/logo/773715.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="30" src="https://th.bing.com/th/id/R.14f049fc191ceb79b7b798ecca8ad863?rik=eHYxK2Dv5MM7uw&pid=ImgRaw&r=0">
+<img height="30" src="https://logospng.org/download/html-5/logo-html-5-2048.png">
+<img height="30" src="https://www.reblaze.com/blog/wp-content/uploads/sites/4/2019/10/16x9-Azure-cloud.png">
+<img height="30" src="https://th.bing.com/th/id/R.077ca67b84f1238c2cd48077fd80a56e?rik=WV6kXsKevpAzMA&pid=ImgRaw&r=0">
+<img height="30" src="https://th.bing.com/th/id/R.28473fadb61f4c9a9b8157ec45fa2574?rik=lKUtiDssmHt%2bNA&pid=ImgRaw&r=0"> </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmirJafarlooPro&limit=5&theme=dark&combine_all_yearly_contributions=true)
